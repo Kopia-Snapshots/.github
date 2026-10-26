@@ -1,5 +1,3 @@
-Restore one small file to a new folder and open it before you trust the job. Do not delete the originals the same day as the first snapshot. The repository should sit on a different disk from the files it protects. If you lose the password, the snapshots stay closed.
-
 # Kopia - Snapshots of Folders You Choose
 
 Kopia stores snapshots of folders you select, on a disk or a server you control. You set the password. There is no vendor desk that can open the backup if you forget it. A snapshot is a copy of your files at a time you chose, not a license to read someone else's disk.
